@@ -1,4 +1,5 @@
-
+// Hosted on : https://www.jsdelivr.com/?docs=gh
+// main js : https://content.jwplatform.com/libraries/KB5zFt7A.js
 /*!
    JW Player version 8.27.1
    Copyright (c) 2023, JW Player, All Rights Reserved
